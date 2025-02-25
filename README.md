@@ -25,7 +25,7 @@ This project is a Music Genre Classification Web Application built using React (
 
 3. Features
 
-	•	🎵 Upload an audio file from the frontend.
+	•	 Upload an audio file from the frontend.
 	•	🔥 Backend processes the file by extracting features.
 	•	🎯 Pre-trained deep learning model predicts the music genre.
 	•	📊 Displays the predicted genre on the UI.
